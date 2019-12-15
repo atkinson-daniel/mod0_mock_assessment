@@ -1,4 +1,4 @@
-Class: Making a Sandwich
+Making a Sandwich
 
 1. Prepare the ingredients
   1.1 Get the bread and the peanut butter from the pantry and place it on the kitchen counter
