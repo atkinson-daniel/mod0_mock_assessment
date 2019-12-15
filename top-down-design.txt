@@ -1,0 +1,21 @@
+Class: Making a Sandwich
+
+1. Prepare the ingredients
+  1.1 Get the bread and the peanut butter from the pantry and place it on the kitchen counter
+  1.2 Get the strawberry jam from the fridge and place it on the counter
+2. Gather the tools to make the sandwich
+  2.1 Take out two knives and one plate
+3. Make the sandwich
+  3.1 Open the bag of bread
+    3.1.1 Take out two slices of fresh bread and place them on the plate
+  3.2 Spread the peanut butter on one slice of bread
+    3.2.1 Open up the jar of peanut butter
+    3.2.2 Take one knife and shovel out about 1-2 tablespoons worth of peanut butter
+    3.2.3 Spread the peanut butter evenly on one side of one slice of bread
+  3.3 Spread the strawberry jam on the other slice of bread
+    3.3.1 Open up the jar of strawberry jam
+    3.3.2 Take one knife and scoop out about 1-2 tablespoons worth of strawberry jam
+    3.3.3 Spread the strawberry jam evenly on one side of the other slice of bread
+  3.4 Apply the slice of bread with peanut butter to the slice of bread with strawberry jam
+  3.5 Cut the sandwich down the middle
+4. Happily eat the sandwich
