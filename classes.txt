@@ -1,0 +1,14 @@
+Class: Dog
+
+Attributes:
+breed (string) i.e. "golden retriever"
+gender (string) i.e. "male"
+owners (array) i.e. ["Daniel", "Kara"]
+isNeutered (boolean) i.e false
+favoriteActivities (array) i.e. ["eating", "walking", "taking a bath", "sleeping"]
+
+Methods:
+adopt (Removes contents in array "owners" and replaces them with new ones) i.e. ["David", "Tim"]
+neuter (changes isNeutered from false to true)
+addNewFavoriteActivity (adds an additional string to the array favoriteActivities) i.e. ["eating", "walking", "taking a bath", "sleeping", "sticking head outside car window"]
+changeBread (changes contents of breed string. I.e. you actually find out your golden retriever is a mutt) i.e. "mutt"
