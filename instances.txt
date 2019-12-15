@@ -1,0 +1,29 @@
+Instance: Kahlua
+
+Attributes:
+breed: "Golden Retriever"
+gender: "female"
+owners: ["Kathy", "Chris"]
+isNeutered: false
+favoriteActivities: ["eating" "laying down" "chasing bunnies"]
+
+Methods:
+adopt: (i.e. Kathy and Chris no longer want Kahlua) --> ["Daniel", "Kara"]
+neuter: true
+addNewFavoriteActivity: ["eating" "laying down" "chasing bunnies" "sleeping"]
+changeBreed: "English Creme Golden Retriever"
+
+Instance: Gigi
+
+Attributes:
+breed: "Poodle"
+gender: "female"
+owners: ["Jill", "Joe"]
+isNeutered: false
+favoriteActivities: ["being pet" "jumping on strangers"]
+
+Methods:
+adopt: (i.e. Jill and Joe no longer want Gigi) --> ["Aubree", "Ethan"]
+neuter: true
+addNewFavoriteActivity: ["being pet" "jumping on strangers" "snacking"]
+changeBreed: "Mutt"
